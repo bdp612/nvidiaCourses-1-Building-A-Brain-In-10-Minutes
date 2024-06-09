@@ -14,6 +14,6 @@ categories = [(0, "T-shirt/top"), (1, "Trouser"), (2, "Pullover"), (3, "Dress"),
 
 Example:
 
-<img src="images/Trousers.png" align="center" width="200"/>>
-<img src="images/Graph.png" align="center" width="200"/>>
-<img src="images/Answer.png" align="center" width="200"/>>
+<img src="images/Trousers.png" align="center" width="400"/>
+<img src="images/Graph.png" align="center" width="400"/>
+<img src="images/Answer.png" align="center" width="400"/>
